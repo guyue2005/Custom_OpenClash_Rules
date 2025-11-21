@@ -1,17 +1,6 @@
 <h1 align="center">🚀 OpenClash 保姆级设置方案<br>⠀⠀&<br>🛡️ 全分组防泄漏订阅转换规则</h1>
 
-<p align="center">
-	<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Aethersailor/Custom_OpenClash_Rules?style=flat">
-	<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Aethersailor/Custom_OpenClash_Rules?style=flat">
-	<img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/Aethersailor/Custom_OpenClash_Rules?style=flat">
-	<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fapi.asailor.org%2Fversion&up_message=online&down_message=offline&style=flat&label=backend">
-	<a href="https://t.me/custom_openclash_rules">
-		<img src="http://img.shields.io/badge/dynamic/json?style=flat&label=channel&logo=telegram&query=$.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dcustom_openclash_rules" alt="Telegram">
-	</a>
-	<a href="https://t.me/custom_openclash_rules_group">
-		<img src="https://img.shields.io/badge/dynamic/json?style=flat&label=group&logo=telegram&query=$.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dcustom_openclash_rules_group" alt="Telegram">
-	</a>
-</p>
+
 <p align="center"><b>✨ 让你更优雅的使用 OpenClash ✨</b></p>
 
 ---
@@ -323,13 +312,3 @@ Traffic、GB、Expire
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Aethersailor/Custom_OpenClash_Rules&type=Date" />
  </picture>
 </a>
-
-## 📊 数据统计
-
-![Alt](https://repobeats.axiom.co/api/embed/0d7d55da94670a4766aa0fb8ccd03c7abc9e8464.svg "Repobeats analytics image")  
-
-## 📈 访问记录
-
-![:访问数](https://count.getloli.com/@:Custom_OpenClash_Rules?theme=sketch-1)  
-
-2025年2月开始统计  
